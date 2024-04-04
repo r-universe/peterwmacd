@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "fase"]
+	path = fase
+	url = https://github.com/peterwmacd/fase
 [submodule "multiness"]
 	path = multiness
 	url = https://github.com/peterwmacd/multiness
